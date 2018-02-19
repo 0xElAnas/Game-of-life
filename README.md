@@ -18,4 +18,4 @@ npm run serve
 ![screenshot from 2018-02-19 18-30-53](https://user-images.githubusercontent.com/15897482/36392469-3dcf7daa-15a3-11e8-9bd8-c37f41f3395b.png)
 
 ## License:
-This project is licensed under the MIT License - see the LICENSE.md file for details
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details
